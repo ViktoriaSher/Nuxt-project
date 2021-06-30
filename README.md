@@ -1,4 +1,4 @@
-# y
+
 It's a test Nuxt application
 ## Build Setup
 
